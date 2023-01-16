@@ -3,7 +3,3 @@ python -m pip show numpy
 python -m pip uninstall numpy -y OR conda remove -n 42AI-$USER numpy
 python -m pip install numpy OR conda install -n 42AI-$USER numpy
 # python -m pip freeze > requirements.txt
-
-
-
-
